@@ -1,6 +1,6 @@
 # DSA Practice
 
-DSA Practice is a repository dedicated to practicing Data Structures and Algorithms (DSA). It contains solutions to a variety of problems that enhance understanding and proficiency in DSA concepts.
+DSA Practice is a repository dedicated to practicing Data Structures and Algorithms (DSA). It contains solutions to a variety of problems that enhance understanding and proficiency in DSA concepts, especially for 3rd semester B.Tech CSE students. 
 
 ## Features
 
