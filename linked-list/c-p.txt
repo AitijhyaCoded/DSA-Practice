@@ -1,0 +1,10 @@
+case 4:
+    printf("Enter the position to delete: ");
+    scanf("%d", &pos);
+    delete(pos);
+    break;
+case 5:
+    printf("Enter the element to search: ");
+    scanf("%d", &val);
+    search(val);
+    break;
