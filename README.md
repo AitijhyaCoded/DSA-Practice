@@ -9,6 +9,20 @@ DSA Practice is a repository dedicated to practicing Data Structures and Algorit
 - **Multiple Languages**: Solutions in popular programming languages like C++, Java, and Python.
 - **Structured Organization**: Problems are categorized by topic for easy navigation.
 
+## Folder Structure
+
+```plaintext
+DSA-Practice/
+│
+├── basic-array/
+├── linked-list/
+├── stack/
+├── queue/
+├── tree/
+└── sorting/
+```
+
+
 ## Getting Started
 
 ### Prerequisites
